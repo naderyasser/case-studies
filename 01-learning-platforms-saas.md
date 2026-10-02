@@ -3,9 +3,9 @@
 **Kind:** multi-tenant SaaS that gives teachers and tutoring centres in Egypt their own learning platform
 **Role:** everything — architecture, backend, UI, AI, infrastructure, operations
 
-![A teacher's platform built on it](images/learning-platform-home.png)
+![Al-Aref — the flagship platform the SaaS grew out of](images/learning-platform-home.png)
 
-| Sign-up landing | Catalogue | On a phone |
+| SaaS sign-up landing | Al-Aref catalogue | Al-Aref on a phone |
 |---|---|---|
 | ![](images/learning-landing.png) | ![](images/learning-catalog.png) | ![](images/learning-mobile.png) |
 
