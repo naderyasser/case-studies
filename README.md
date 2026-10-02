@@ -13,4 +13,4 @@ put together, and the numbers behind it. Client names are left out on purpose.
 | 6 | [Education Centre Management](06-education-centre.md) | Back office for tutoring centres |
 | 7 | [Biometric Attendance — desktop](07-attendance-desktop.md) | Offline Windows app |
 
-Contact: [development-master.com](https://development-master.com) · [LinkedIn](https://linkedin.com/in/naderyasser)
+Contact: [naderyasser023@gmail.com](mailto:naderyasser023@gmail.com) · [development-master.com](https://development-master.com) · [LinkedIn](https://linkedin.com/in/naderyasser)
