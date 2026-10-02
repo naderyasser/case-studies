@@ -3,6 +3,8 @@
 **Kind:** an assistant for importers in Egypt — "I want to import product X: am I allowed, and what do I need?"
 **Role:** everything — data collection, knowledge base, agent loop, evaluation, deployment
 
+![The advisor's start page](images/customs-advisor.png)
+
 ## The idea
 The importer describes the product in everyday Arabic (dialect included) and gets the 10-digit HS code,
 the authorities that must approve, any ban or condition, duties and taxes, and the documents needed —
@@ -23,10 +25,10 @@ answer ─► citation check: a code no tool returned → one rewrite, otherwise
 ## Knowledge base (live numbers)
 | Layer | Content | Count |
 |---|---|---|
-| Tariff | product → code | 15,767 lines |
+| Tariff | product → code | 8,826 lines |
 | Official notes | bans, approvals, ports | 411 |
 | Importer conditions | registry, ACI, food safety… | 1,092 rules |
-| Regulations | laws and interpretations | 5,265 documents / 22,150 passages |
+| Regulations | laws and interpretations | 5,258 documents |
 
 Polite crawlers (one request at a time per site, 2.5–3 s apart, back-off on 429/5xx, resumable),
 and extracted rules start "unverified" until a specialist approves them in the admin.

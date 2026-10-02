@@ -3,6 +3,12 @@
 **Kind:** multi-tenant SaaS that gives teachers and tutoring centres in Egypt their own learning platform
 **Role:** everything — architecture, backend, UI, AI, infrastructure, operations
 
+![A teacher's platform built on it](images/learning-platform-home.png)
+
+| Sign-up landing | Catalogue | On a phone |
+|---|---|---|
+| ![](images/learning-landing.png) | ![](images/learning-catalog.png) | ![](images/learning-mobile.png) |
+
 ## The idea
 A teacher signs up, picks a plan and a design template, and minutes later has a complete platform on
 `<name>.el3aref.com` or their own domain: protected video courses, timed exams, printed access codes,
